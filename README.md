@@ -16,7 +16,7 @@
    3. Activate the virtual environment:
       - On Windows:
         ```
-        venv\Scriptsctivate
+        venv\Scripts\activate
         ```
       - On macOS and Linux:
         ```
