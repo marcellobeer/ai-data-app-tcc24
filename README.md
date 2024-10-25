@@ -30,7 +30,7 @@
 
    5. Run the app:
       ```
-      streamlit app-data.py
+      streamlit run app-data.py
       ```
 
    ## Deactivating the virtual environment
