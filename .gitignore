@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+venv/
+venv_new/
+
+# Data directory
+data/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Data files (if you don't want to track them)
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Python egg metadata, regenerated from source files by setuptools
+*.egg-info/
+*.egg
+
+# Backup files
+*.bak
